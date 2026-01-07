@@ -1,0 +1,10 @@
+Millist Exceli funktsiooni kasutatakse arvude liitmiseks?
+
+Mida teeb funktsioon AVERAGE?
+
+Millise käsuga saab Git CMD-s luua uue haru (branch)?
+
+Kuidas teha muudatustest commit Git CMD-s?
+
+Kuidas liikuda Desktopi kausta Git CMD-s?
+
