@@ -1,6 +1,6 @@
 Millist Exceli funktsiooni kasutatakse arvude liitmiseks? SUM
 
-Mida teeb funktsioon AVERAGE?
+Mida teeb funktsioon AVERAGE? Ta arvutab keskmise arvu
 
 Millise käsuga saab Git CMD-s luua uue haru (branch)?
 
