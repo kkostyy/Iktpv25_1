@@ -1,4 +1,4 @@
-Millist Exceli funktsiooni kasutatakse arvude liitmiseks?
+Millist Exceli funktsiooni kasutatakse arvude liitmiseks? SUM
 
 Mida teeb funktsioon AVERAGE?
 
