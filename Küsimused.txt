@@ -4,7 +4,7 @@ Mida teeb funktsioon AVERAGE? Ta arvutab keskmise arvu
 
 Millise käsuga saab Git CMD-s luua uue haru (branch)? git branch haruNimi
 
-Kuidas teha muudatustest commit Git CMD-s?
+Kuidas teha muudatustest commit Git CMD-s? git commit -a -m "fail on loodud ja nimi on lisatud"
 
 Kuidas liikuda Desktopi kausta Git CMD-s?
 
